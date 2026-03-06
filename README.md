@@ -1,6 +1,6 @@
 # Trade Order Manager 📈
 
-A portfolio and trade order management system built in Java — inspired by Charles River Investment Management System (CRD) internship role at State Street.
+A portfolio and trade order management system built in Java
 
 ## Overview
 
